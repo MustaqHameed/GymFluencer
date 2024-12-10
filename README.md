@@ -1,2 +1,2 @@
-# FitPhysique_01-04-24
+# GymFluencer_09-11-24
 Learn how to create a stunning gym website from scratch using HTML, CSS, and JavaScript!
